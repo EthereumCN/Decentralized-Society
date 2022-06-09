@@ -1,3 +1,6 @@
+<p align="left">
+	<a target="_blank" href="https://github.com/EthereumCN/Decentralized-Society/blob/main/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%A4%BE%E4%BC%9A%EF%BC%9A%E5%AF%BB%E6%89%BEWeb3%E7%9A%84%E7%81%B5%E9%AD%82.pdf">Download</a>
+</p>
 来源：https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763
 
 作者 | E.格伦·韦尔[2]，普迦·奥尔哈弗[3]，维塔利克·布特林[4]
